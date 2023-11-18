@@ -1,0 +1,11 @@
+package Practice;
+
+public class Example{
+	
+	public static void main(String args[]){
+
+		Person p = new Person();
+
+		p.introduceYourself();
+	}
+}
